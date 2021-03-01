@@ -1,36 +1,28 @@
-- 👋 Hi, I’m @YohanGupta
-- 👀 I’m interested in web development and programming.
+<h1 align="center">Hi 👋, I'm Yohan</h1>
+<h3 align="center">A passionate Web developer and Programmer from India</h3>
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on 
--     [[params.social]]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohangupta&label=Profile%20views&color=0e75b6&style=flat" alt="yohangupta" /> </p>
 
-    icon = "linkedin"
+<p align="left"> <a href="https://twitter.com/guptayohan" target="blank"><img src="https://img.shields.io/twitter/follow/guptayohan?logo=twitter&style=for-the-badge" alt="guptayohan" /></a> </p>
 
-    icon_pack = "fa"
+- 🔭 I’m currently working on **a web development project having name shopper's spot**
 
-    link = "//linkedin.com/in/Yohan Gupta"
+- 🌱 I’m currently learning **Django**
 
-    [[params.social]]
+- 👨‍💻 All of my projects are available at [https://github.com/YohanGupta](https://github.com/YohanGupta)
 
-    icon = "github"
+- 📫 How to reach me **yohangupta123@gmail.com**
 
-    icon_pack = "fa"
+- ⚡ Fun fact **Love to listen music!!**
 
-    link = "//github.com/YohanGupta"
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/GuptaYohan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guptayohan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yohangupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yohangupta" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yohangupta123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="yohan gupta" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-    [[params.social]]
-
-    icon = "twitter"
-
-    icon_pack = "fa"
-
-    link = "//twitter.com/GuptaYohan.  "
--   Linkedin https://www.linkedin.com/in/yohan-gupta-a1b9111b6 
-- 
-
-<!---
-YohanGupta/YohanGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yohangupta&show_icons=true&locale=en" alt="yohangupta" /></p>
