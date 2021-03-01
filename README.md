@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @YohanGupta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in web development and programming.
+
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on 
+-    Linkedin https://www.linkedin.com/in/yohan-gupta-a1b9111b6 
+- 
 
 <!---
 YohanGupta/YohanGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
