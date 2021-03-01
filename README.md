@@ -3,7 +3,31 @@
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on 
--    Linkedin https://www.linkedin.com/in/yohan-gupta-a1b9111b6 
+-     [[params.social]]
+
+    icon = "linkedin"
+
+    icon_pack = "fa"
+
+    link = "//linkedin.com/in/Yohan Gupta"
+
+    [[params.social]]
+
+    icon = "github"
+
+    icon_pack = "fa"
+
+    link = "//github.com/YohanGupta"
+
+
+    [[params.social]]
+
+    icon = "twitter"
+
+    icon_pack = "fa"
+
+    link = "//twitter.com/GuptaYohan.  "
+-   Linkedin https://www.linkedin.com/in/yohan-gupta-a1b9111b6 
 - 
 
 <!---
