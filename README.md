@@ -36,5 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohangupta&show_icons=true&locale=en&layout=compact" alt="yohangupta" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yohangupta&show_icons=true&locale=en" alt="yohangupta" /></p>
