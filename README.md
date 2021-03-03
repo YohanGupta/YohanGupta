@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/guptayohan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guptayohan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Yohan Gupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yohangupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yohan-gupta-a1b9111b6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yohangupta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yohangupta123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="yohangupa123" height="30" width="40" /></a>
 </p>
 
