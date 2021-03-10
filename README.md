@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohangupta&label=Profile%20views&color=0e75b6&style=flat" alt="yohangupta" /> </p>
 
-<p align="left"> <a href="https://twitter.com/guptayohan" target="blank"><img src="https://img.shields.io/twitter/follow/guptayohan?logo=twitter&style=for-the-badge" alt="guptayohan" /></a> </p>
 
 - 🔭 I’m currently working on **a web development project having name shopper's spot**
 
